@@ -120,8 +120,7 @@ do
     
 
     
-    sleep 20
-    
+     sleep 32    
 
     
 done
